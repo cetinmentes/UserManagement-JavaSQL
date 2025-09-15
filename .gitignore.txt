@@ -1,0 +1,23 @@
+# Build output
+/build/
+dist/
+out/
+*.class
+
+# NetBeans project private config
+/nbproject/private/
+
+# IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
