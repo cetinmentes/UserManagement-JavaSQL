@@ -71,5 +71,4 @@ UserManagement/
 
 ## 👨‍💻 Autor
 Projekt erstellt von **Cetin Mentes** als Lernprojekt für **Java + SQL**  
-Nützlich für Bewerbungen (Ausbildung / Dualstudium IT).
 
